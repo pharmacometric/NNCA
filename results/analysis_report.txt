@@ -1,0 +1,33 @@
+PHARMACOKINETICS NON-COMPARTMENTAL ANALYSIS REPORT
+==================================================
+
+Analysis Configuration:
+- Time units: h
+- Concentration units: ng/mL
+- LLOQ handling: HalfLloq
+- Lambda_z selection: Auto
+
+Population Summary:
+- Total subjects analyzed: 50
+
+Key Parameters (Geometric Mean ± Geometric CV%):
+- auc_inf (Arithmetic): 38.200 ± 44.3%
+- auc_inf (Geometric): 33.448 ± 151.3%
+- volume_terminal (Arithmetic): 102.883 ± 44.8%
+- volume_terminal (Geometric): 94.589 ± 114.3%
+- cmax (Arithmetic): 4.031 ± 103.0%
+- cmax (Geometric): 2.322 ± 299.6%
+- half_life (Arithmetic): 9.264 ± 27.8%
+- half_life (Geometric): 8.915 ± 88.6%
+- mrt (Arithmetic): 13.294 ± 29.7%
+- mrt (Geometric): 12.716 ± 93.4%
+- auc_last (Arithmetic): 24.642 ± 71.8%
+- auc_last (Geometric): 17.380 ± 231.3%
+- clearance (Arithmetic): 7.720 ± 34.6%
+- clearance (Geometric): 7.354 ± 93.1%
+
+Method Comparison:
+- LinearUpLogDown: 24.642
+- LogTrapezoidal: 24.642
+- LinearLogTrapezoidal: 24.642
+- LinearTrapezoidal: 24.642
